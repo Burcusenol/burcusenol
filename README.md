@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Burcu</h1>
 
 
-- 🔭 I’m graduated Sakarya University in 2020**
+- 🔭 I’m graduated Sakarya University in 2020
 
 - 🌱 I’m currently learning **C#,Angular,Java**
 
