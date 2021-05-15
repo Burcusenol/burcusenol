@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Burcu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burcusenol&label=Profile%20views&color=0e75b6&style=flat" alt="burcusenol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burcusenol&theme=onedark" alt="burcusenol" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=burcusenol&theme=onedark" alt="burcusenol" /> </p>
 
 - 🔭 I’m Information Systems Engineer 
 - :computer: I graduated Sakarya University in 2020
