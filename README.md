@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m Information Systems Engineer 
 - :computer: I graduated Sakarya University in 2020
 - :crystal_ball: I interested in **Data Sience**
-- 🌱 I’m currently learning **Angular,Java**
+- 🌱 I’m currently learning **React,Java**
 
 <h3 align="left">Connect with me: 📫</h3>
 
