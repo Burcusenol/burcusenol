@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me: 📫</h3>
 
-<p align="left">  <a href = 'https://www.linkedin.com/in/burcuşenol'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/59020581/117355609-7d587a80-aebb-11eb-8984-ca76d2bac157.png"/> </a>  <a href = 'https://www.instagram.com/burcuusenoll/'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/59020581/117355418-3a96a280-aebb-11eb-974e-c262d723d7e2.png"/> </a> <a href = 'mailto:burcusenol62@gmail.com'> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/59020581/117356590-96adf680-aebc-11eb-9023-08ebeed680ef.png"/> </a> <p>
+<p align="left">  <a href = 'https://www.linkedin.com/in/burcuşenol'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/59020581/117355609-7d587a80-aebb-11eb-8984-ca76d2bac157.png"/> </a> <a href = 'mailto:burcusenol62@gmail.com'> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/59020581/117356590-96adf680-aebc-11eb-9023-08ebeed680ef.png"/> </a> <p>
 
 
 <h3 align="left">Languages and Tools:🌱</h3>
