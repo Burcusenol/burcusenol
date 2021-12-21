@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=burcusenol&theme=onedark" alt="burcusenol" /> </p>
 
-- 🔭 I’m IData Scientist
+- 🔭 I’m Data Scientist
 - :computer: I graduated Sakarya University in 2020
 - :crystal_ball: I interested in **Data Sience**
 - 🌱 I’m currently learning **Python**
