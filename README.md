@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=burcusenol&show_icons=true&locale=en&layout=compact&theme=onedark" alt="burcusenol" /> <p>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burcusenol&count_private=true&show_icons=true&locale=en&layout=compact&theme=onedark&include_all_commits=true)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burcusenol&&langs_count=8&show_icons=true&locale=en&layout=compact&theme=onedark" alt="burcusenol" /<p>
