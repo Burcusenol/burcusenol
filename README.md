@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=burcusenol&theme=onedark" alt="burcusenol" /> </p>
 
 
-- :crystal_ball: I’m Data Scientist
-- :computer: I graduated Sakarya University in 2020
-- 🌱 I’m currently learning **Python**
+- :crystal_ball: I’m Data Scientist at TRT
 
 <h3 align="left">Connect with me: 📫</h3>
 
